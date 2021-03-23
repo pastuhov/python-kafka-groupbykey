@@ -1,0 +1,6 @@
+## Python requirements for using the application.
+##
+##   python -m pip install --requirement=requirements.txt
+##
+confluent-kafka==1.6.0
+prometheus-client==0.9.0
